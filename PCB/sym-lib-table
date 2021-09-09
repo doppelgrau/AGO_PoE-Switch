@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Platine-PoE-Switch-rescue)(type Legacy)(uri ${KIPRJMOD}/Platine-PoE-Switch-rescue.lib)(options "")(descr ""))
+)
